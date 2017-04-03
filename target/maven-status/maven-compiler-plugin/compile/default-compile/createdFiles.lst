@@ -1,0 +1,5 @@
+com\friedegg\dropwizard\App.class
+com\friedegg\dropwizard\dao\EmployeeDB.class
+com\friedegg\dropwizard\health\EmployeeHealthCheck.class
+com\friedegg\dropwizard\model\Employee.class
+com\friedegg\dropwizard\controller\EmployeeRESTController.class
